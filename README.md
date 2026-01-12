@@ -19,7 +19,8 @@ Projeto de banco de dados desenvolvido em MySQL, com foco em modelagem relaciona
 - Clientes com pagamentos pendentes
 
 ## 📌 Como executar
-1. Execute o arquivo `schema.sql` para criar o banco e as tabelas
-2. Execute o arquivo `queries.sql` para testar as consultas
+1.Abra o seu terminal ou interface gráfica do MySQL (como Workbench ou DBeaver).
+2.Copie e cole o código SQL contido no repositório para criar as tabelas e popular os dados.
+3.Execute as consultas de análise para verificar os resultados.
 
 Projeto desenvolvido para fins acadêmicos e de aprendizado em banco de dados.
